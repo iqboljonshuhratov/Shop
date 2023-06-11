@@ -7,19 +7,19 @@ const products = [
     },
     {
         id: "2",
-        img:'https://cdn1.img.sputniknews.uz/img/07e4/09/09/14935111_512:0:2560:2048_1920x0_80_0_0_9cb89c54769327d9175ec607aa2ee178.jpg',
+        img:'https://ae01.alicdn.com/kf/S765d219cd48341b289f50f7a264a3669z/Cheap-Boys-Cartoon-Yellow-Sneakers-Breathable-Summer-Shoes-Sport-Children-Fashion-Graffiti-Sneakers-Non-slip.jpg',
         title:'MT Krasovka 08 yellow',
         price:'70$',
     },
     {
         id: "3",
-        img:'https://kedred.ru/wp-content/uploads/2023/05/krossovki-puma-mb-01-1-584x480.jpg',
+        img:'https://reebok.kiev.ua/files/product-photos/sku-fy3074_1.jpg',
         title:'Krasovka 09 black',
         price:'60$',
     },
     {
         id: "4",
-        img:'https://chelyabinsk.kedred.ru/wp-content/uploads/2022/11/krossovki-puma-mb-01-1-5-584x480.jpg',
+        img:'https://nursace-store.com.ua/image/cache/catalog/products/8-55-3silver4-1024x1024.jpg',
         title:'BEST Krasovka silver',
         price:'55$',
     },
